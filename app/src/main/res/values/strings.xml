@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CandleBlow</string>
+    <string name="lock">锁屏</string>
+    <string name="start">激活设备管理器</string>
+</resources>
